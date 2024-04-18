@@ -46,5 +46,21 @@ nav > ul > li {
 
 p {
  text-align: center;
+ margin: 0 auto;
 }
+
+footer{
+    text-align: center;
+    padding: 10px;
+}
+
+footer a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer a:hover {
+    color: yellow;
+}
+
 
